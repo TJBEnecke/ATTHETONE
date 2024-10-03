@@ -563,3 +563,11 @@
 ::webkit-scrollbar-thumb{
     background-color: var(--main-color);
 }
+
+ .kbw-signature{
+     
+     width: 100%; 
+     height: 200px;}
+
+
+#sigpad .canvas{width: 100% !important; height: auto;}
